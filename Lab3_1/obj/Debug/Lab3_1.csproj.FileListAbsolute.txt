@@ -1,0 +1,7 @@
+D:\Semestr 4\04. PIPO\Lab3\Zad1\Lab3_1\obj\Debug\Lab3_1.csprojAssemblyReference.cache
+D:\Semestr 4\04. PIPO\Lab3\Zad1\Lab3_1\obj\Debug\Lab3_1.csproj.CoreCompileInputs.cache
+D:\Semestr 4\04. PIPO\Lab3\Zad1\Lab3_1\bin\Debug\Lab3_1.exe.config
+D:\Semestr 4\04. PIPO\Lab3\Zad1\Lab3_1\bin\Debug\Lab3_1.exe
+D:\Semestr 4\04. PIPO\Lab3\Zad1\Lab3_1\bin\Debug\Lab3_1.pdb
+D:\Semestr 4\04. PIPO\Lab3\Zad1\Lab3_1\obj\Debug\Lab3_1.exe
+D:\Semestr 4\04. PIPO\Lab3\Zad1\Lab3_1\obj\Debug\Lab3_1.pdb
